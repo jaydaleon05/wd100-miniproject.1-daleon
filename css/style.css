@@ -1,0 +1,19 @@
+.custom-height {
+    height: 850px;
+}
+
+.card{
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.card:hover{
+    opacity: 0.5;
+}
+h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.container h1{
+    margin-top: 5px;
+    text-align: center;
+}
